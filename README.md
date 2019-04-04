@@ -1,2 +1,2 @@
 # DiscordBot
-DiscordBot programmed in JavaScript.
+A bot for Discord programmed in JavaScript.
