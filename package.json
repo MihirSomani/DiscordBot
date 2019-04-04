@@ -1,0 +1,29 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "A bot for Discord programmed in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihirSomani/DiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihirSomani/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/MihirSomani/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
